@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Previsao_Tempo/blob/main/LICENSE)
 
 # Sobre o projeto
-Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end; Nodejs e API OpenWeather(http://openweathermap.org/) no Back-end.     
+Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end; Nodejs e API OpenWeather(http://openweathermap.org/) no Back-end.      
 
 ## Imagem web de Previsao_tempo
 <div align="center">
@@ -58,7 +58,12 @@ git clone https://github.com/LombaAnderson/Previsao_Tempo
 -vue add unit-jest
 
 # Instalação do Vue Test Utils
-npm install --save-dev @vue/test-utils
+-npm install --save-dev @vue/test-utils
+
+# Criando pastas e fazendo testes
+-Pasta components/tests 
+- Criação do arquivo 'App.vue.spec.js' dentro da pasta tests
+-Realização de teste de 22 componentes do projeto e todos Ok
 
 ```
 

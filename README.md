@@ -7,7 +7,7 @@
 
 ## Imagem do front-end do chat
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/141195980-defa013d-7094-4578-bbda-033ae42b1b0f.png" width="600" />
+<img src="https://user-images.githubusercontent.com/60937513/142774613-f15b79ef-fc8e-4af4-b926-44cccaa7fcc2.png" width="600" />
 </div>
 
 # Tecnologias utilizadas

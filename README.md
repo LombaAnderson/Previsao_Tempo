@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Previsao_Tempo/blob/main/LICENSE)
 
 # Sobre o projeto
-Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end; Nodejs e API OpenWeather no Back-end.   
+Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end; Nodejs e API OpenWeather(http://openweathermap.org/) no Back-end.     
 
 ## Imagem web de Previsao_tempo
 <div align="center">
@@ -20,45 +20,45 @@ Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end
 </div>
 
 # Tecnologias utilizadas
+## Front end
+- Vuejs / CSS / JS / HTML
+
 ## Back end
 - NodeJs
 - API do OpenWeatherMap
 
 # Testes unitários 
 - Jest
+- Vue-test-utils
 
-## Front end
-- Vuejs / CSS / JS / HTML
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: NodeJs a acesso a API OpenWeatherMap (http://openweathermap.org/)
+# Instruções para compilar, testar e rodar o projeto
 
 ```bash
-# clonar repositório
-git clone https://github.com/lombaAnderson/Previsao_Tempo
+# Clonar repositório
+git clone https://github.com/LombaAnderson/Previsao_Tempo
 
-# executar o projeto com Nodejs
+# Criação do projeto com o cli do Vuejs atráves do npm Nodejs
 -npm -g install @vue/cli
 
+# Criação do projeto com Vuejs
+-vue create previsao-tempo
 
-```
+# Escolhas na instalação do Vue CLI
+> Default([Vue 2] babel, eslint)
 
-## Front end web
-Pré-requisitos: Vuejs  
+# Para compilar o projeto
+- cd previsao-tempo
+-npm run serve
 
-# instalação do Vuejs
-vue new previsao-tempo
+# Acesso ao navegador
+- Local: http://localhost:8081/
+- Network: http://192.168.100.40:8081/
 
-# entrar na pasta do projeto 
-cd cadastro_websocket
+# Instalação do Jest para testes
+-vue add unit-jest
 
-# criar arquivo onde o servidor funcionará
-server.js
-
-# executar o projeto
-node server.js
+# Instalação do Vue Test Utils
+npm install --save-dev @vue/test-utils
 
 ```
 

@@ -35,7 +35,7 @@ Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: NodeJs.
+Pré-requisitos: NodeJs a acesso a API OpenWeatherMap (http://openweathermap.org/)
 
 ```bash
 # clonar repositório

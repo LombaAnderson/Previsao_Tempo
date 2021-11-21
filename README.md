@@ -19,7 +19,6 @@ Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end
 <img src="https://user-images.githubusercontent.com/60937513/142776028-9ed3548c-cc90-48a9-873a-0f829cc61e54.png" width="600" />
 </div>
 
-
 # Tecnologias utilizadas
 ## Back end
 - NodeJs
@@ -27,7 +26,6 @@ Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end
 
 # Testes unitários 
 - Jest
-
 
 ## Front end
 - Vuejs / CSS / JS / HTML
@@ -41,11 +39,8 @@ Pré-requisitos: NodeJs a acesso a API OpenWeatherMap (http://openweathermap.org
 # clonar repositório
 git clone https://github.com/lombaAnderson/Previsao_Tempo
 
-# executar o projeto
-
--npm -g install
-
-
+# executar o projeto com Nodejs
+-npm -g install @vue/cli
 
 
 ```

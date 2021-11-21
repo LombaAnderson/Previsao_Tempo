@@ -13,7 +13,7 @@ Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end
 
 ## Imagem do front-end do chat
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60937513/142775881-7bdadc25-77aa-4e8e-af08-cb42c9a42d91.png" width="600" />
+<img src="https://user-images.githubusercontent.com/60937513/142775881-7bdadc25-77aa-4e8e-af08-cb42c9a42d91.png" width="700" />
 </div>
 
 

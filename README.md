@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/Previsao_Tempo/blob/main/LICENSE)
 
 # Sobre o projeto
-Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end; Nodejs e API OpenWeather(http://openweathermap.org/) no Back-end. Primeiramente foi instalado e importado o Bootstrap Css para estilizar a página de pesquisa das localidades, em seguida foi montada a estrutura html dentro do componente App.vue e importação do CSS personalizado para o arquivo único do projeto, prosseguindo foram criados os dados reativos Vue para se poder ter acesso as cidades pesquisadas. Continuando foi feita a renderização dos dados reativos em tags html   
+Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end; Nodejs e API OpenWeather(http://openweathermap.org/) no Back-end. Houve a preocupação de organização do código em pastas e de maneira que o mesmo ficasse mais fluído. Primeiramente foi instalado e importado o Bootstrap Css para estilizar a página de pesquisa das localidades e em seguida foi montada a estrutura html dentro do componente App.vue, foi feita a importação do CSS personalizado para o arquivo único do projeto, prosseguindo com o projeto foram criados os dados reativos Vue para poder acessar as cidades pesquisadas. Continuando o projeto foi feita a renderização dos dados reativos em tags html e implementado o Two way binding (V-model) para alterar os valores inseridos no Javascript. Em seguida implementadas as funções no Vue, os chamados métodos e nessa implementação de async/await. Ele trabalha com o código baseado em 'Promises' e foi usado para que a leitura      
 
 ## Imagem web de Previsao_tempo
 <div align="center">

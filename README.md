@@ -3,21 +3,24 @@
 
 
 # Sobre o projeto
+Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end e Nodejs no Back-end. 
 
 
-## Imagem do front-end do chat
+## Imagem web de Previsao_tempo
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/142774613-f15b79ef-fc8e-4af4-b926-44cccaa7fcc2.png" width="600" />
 </div>
 
+## Imagem do front-end do chat
+<div align="center">
+<img src="https://user-images.githubusercontent.com/60937513/142775881-7bdadc25-77aa-4e8e-af08-cb42c9a42d91.png" width="400" />
+</div>
+
+
 # Tecnologias utilizadas
 ## Back end
 - NodeJs
-- express
-- mongoose
-- bcrypt
-- jwt
--nodemon
+- API do OpenWeatherMap
 
 
 ## Front end

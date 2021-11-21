@@ -17,7 +17,7 @@ Previsao_Tempo é um projeto feito com Vuejs, Bootstrap, HTML e CSS no front-end
 </div>
 
 
-## Imagem de erro caso cidade ou país não for encontrado
+## Imagem de erro caso cidade ou país não seja encontrado
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/142776028-9ed3548c-cc90-48a9-873a-0f829cc61e54.png" width="600" />
 </div>

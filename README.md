@@ -43,7 +43,7 @@ git clone https://github.com/LombaAnderson/Previsao_Tempo
 # Criação do projeto com Vuejs
 -vue create previsao-tempo
 
-# Escolhas na instalação do Vue CLI
+# Escolha na instalação do Vue CLI
 > Default([Vue 2] babel, eslint)
 
 # Para compilar o projeto
